@@ -1,0 +1,6 @@
+{
+  "name": "Tĩnh Detox",
+  "description": "Launcher detox trắng đen tối giản kèm Control Center đơn giản và lịch tự động ẩn ứng dụng ngoài danh sách cho phép.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

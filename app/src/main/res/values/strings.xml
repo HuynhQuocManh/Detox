@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tĩnh Detox</string>
+    <string name="cd_open_control_center">Mở trung tâm điều khiển</string>
+    <string name="cd_close_control_center">Đóng trung tâm điều khiển</string>
+    <string name="cd_open_settings">Mở cài đặt detox</string>
+    <string name="cd_open_app_drawer">Mở danh sách ứng dụng</string>
+    <string name="cd_navigate_back">Quay lại</string>
+    <string name="cd_clear_search">Xóa tìm kiếm</string>
+    <string name="cd_phone_shortcut">Mở điện thoại</string>
+    <string name="cd_camera_shortcut">Mở máy ảnh</string>
+    <string name="cd_toggle_flashlight">Bật hoặc tắt đèn pin</string>
+    <string name="cd_toggle_theme">Chuyển đổi nền đen trắng</string>
+</resources>
